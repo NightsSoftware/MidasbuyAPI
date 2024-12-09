@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-    🧩 API for Midasbuy Top-up Store (<a href="https://www.midasbuy.com">www.midasbuy.com</a>): PUBG codes activation, getting players info and more! 🧩
+    🧩 API for Midasbuy Top-up Store (<a href="https://www.midasbuy.com">midasbuy.com</a>): PUBG codes activation, getting players info and more! 🧩
 </h4>
 
 <p align="center">
