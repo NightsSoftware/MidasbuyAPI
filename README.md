@@ -16,7 +16,7 @@
 
 ## 💫 **Documentation & Endpoints**
 
-- **Online documentation is available here: https://midasbuyapi.nightstranger.space**
+- **Online documentation is available here: https://midasbuy-api.com**
 
 ## 🗝️ **API key**
 
