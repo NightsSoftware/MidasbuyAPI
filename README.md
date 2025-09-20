@@ -32,7 +32,7 @@
 import requests
 
 # API URL and headers
-url = "https://midasbuyapi.nightstranger.space/api/v1/pubg/activate"
+url = "https://midasbuy-api.com/api/v1/pubg/activate"
 headers = {
     "Content-Type": "application/json",
     "X-Api-Key": "<your_api_key>"  # Replace with your API key
@@ -88,7 +88,7 @@ except requests.RequestException as e:
 import requests
 
 # API URL and headers
-url = "https://midasbuyapi.nightstranger.space/api/v1/pubg/getPlayer"
+url = "https://midasbuy-api.com/api/v1/pubg/getPlayer"
 headers = {
     "Content-Type": "application/json",
     "X-Api-Key": "<your_api_key>"  # Replace with your API key
